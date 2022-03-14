@@ -28,6 +28,7 @@ const deleteContact = (id)=> {
 return contacts;}
 
 const editContact = (id, contact) =>{
+
   
   let _contacts = contacts.filter((el)=>{
 
